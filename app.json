@@ -1,8 +1,8 @@
 {
-    "name": "Legend Music Player",
+    "name": "Agora Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/LEGEND-OS/MUSIC-VC",
-    "logo": "https://github.com/LEGEND-OS/MUSIC-VC/raw/main/theme/logo.png",
+    "repository": "https://github.com/Agora-OS/MEWZIK",
+    "logo": "https://github.com/Agora-OS/MEWZIK/raw/main/theme/logo.png",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -25,7 +25,7 @@
         "required": true
       },
       "PYROGRAM_SESSION": {
-        "description": "Pyrogram session string, get it from https://replit.com/@AsmSafone/genStr",
+        "description": "Pyrogram session string, get it from https://replit.com/@Agorabot_Info/genStr",
         "required": true
       },
       "SUDOERS": {
