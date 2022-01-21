@@ -51,8 +51,8 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
  **Music Player**
-- Repo: [GitHub](https://github.com/LEGEND-OS/MUSIC-VC)
-- Owner: @The_LegendBoy
+- Repo: [GitHub](https://github.com/Agora-OS/MEWZIK)
+- Owner: [PROFESSOR](https://t.me/Agoraswamy_Professor) ♛︎ [AGORA](https://t.me/agorabot_info)
 """
 
 
